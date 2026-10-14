@@ -1,0 +1,6 @@
+1. Thay [Business name], [Business address], [Contact email] trong 3 file index.html (mo bang Notepad, Ctrl+H).
+2. Tai tat ca file len repo GitHub ten <ten-github>.github.io (Add file > Upload files), Commit.
+3. Settings > Pages: Source = Deploy from a branch, Branch = main, / (root) > Save.
+4. Sau 1-2 phut trang co tai https://<ten-github>.github.io/
+5. Tren TikTok: URL properties > Add > URL prefix = https://<ten-github>.github.io/ > tai file xac minh TikTok cap, upload file do vao goc repo > Verify.
+6. Dien: Terms = https://<ten-github>.github.io/terms/  Privacy = https://<ten-github>.github.io/privacy/
